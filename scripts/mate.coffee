@@ -1,7 +1,8 @@
 MATE_PHRASES = [
   'Basically, mate...',
   'Seriously, mate...',
-  'I\'m not being funny, mate...'
+  'I\'m not being funny, mate...',
+  'HI LAR IOUS mate...'
 ];
 
 module.exports = (robot) ->
