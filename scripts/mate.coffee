@@ -3,7 +3,8 @@ MATE_PHRASES = [
   'Seriously, mate...',
   'I\'m not being funny, mate...',
   'HI LAR IOUS mate...',
-  'That berger mate...'
+  'That berger mate...',
+  'GraphQL mate...'
 ];
 
 module.exports = (robot) ->
